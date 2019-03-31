@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-TBM5PBVT.X_Factor"
+  DTS:DTSID="{BB4CF6B3-57B4-4661-BC63-DBB4065E5404}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=LAPTOP-TBM5PBVT;Initial Catalog=X_Factor;File Name=G:\INF 261\INF261_Practical02_DATA\INF261_Practical02_DATA\qf-1106\Create mentors table.sql;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
